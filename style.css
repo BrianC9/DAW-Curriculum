@@ -3,10 +3,9 @@ html{
     line-height: 1.5;
 }
 body{
-    min-height: 100vh;
     
-    margin-left: 2rem;
-    margin-right: 2rem;
+    margin: auto;
+    width: 90%;
     margin-top: 10px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
@@ -14,7 +13,8 @@ body{
 
 .titulo{
     margin-top: 0px;
-    font-size: 50px;
+    font-size: 60px;
+    margin-bottom: 10px;
     
     
 }
