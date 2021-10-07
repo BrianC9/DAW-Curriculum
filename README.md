@@ -7,7 +7,7 @@ Práctica en la que debemos crear un currículum con HTML y CSS, para la asignat
 * Github como sistema de colección de archivos
   * Herramienta para versionar el proyecto mediante commits
 * Sintaxis  markdown para redactar el Readme
-* Despliegue en  [Vercel] (http://github.com) ✈✈
+* Despliegue en  [Vercel](https://vercel.com/) ✈✈
 
 ## Puedes ver el proyecto online en:
 
